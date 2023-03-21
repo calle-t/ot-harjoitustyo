@@ -1,6 +1,6 @@
 # Ohjelmistotekniikka
 
-##Viikko 1
+## Viikko 1
 
 Tehtävä 1
 > [komentorivi.txt](https://github.com/calle-t/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
