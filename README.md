@@ -1,7 +1,4 @@
-# Tämä on minun eka readme
+# Ohjelmistotekniikka
 
-> Tervetuloa
-
-Tässä tekstipätkässä **tämän on tarkoitus olla lihavoitua** ja *tämä on kursivoitua*.
-
-[Linkki komentorivin tulostukseen](https://github.com/calle-t/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+**Viikko 1**
+> [komentorivi.txt](https://github.com/calle-t/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
