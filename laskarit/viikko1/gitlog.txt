@@ -1,0 +1,79 @@
+commit 7d397eb88769c8bb607d5e6a39aa58418f652e0d
+Author: Calle <calle.thurin@welho.com>
+Date:   Tue Mar 21 19:54:51 2023 +0200
+
+    poistettu file1, uudelleennimetty file2 -> file22
+
+ tiedostoja/file1             | 1 -
+ tiedostoja/{file2 => file22} | 0
+ 2 files changed, 1 deletion(-)
+
+commit 4723ffa11fa5610adced3ad2fdeb8dd933969db7
+Author: Calle <calle.thurin@welho.com>
+Date:   Tue Mar 21 19:47:31 2023 +0200
+
+    uusia tiedostoja
+
+ tiedostoja/file1 | 1 +
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 1 insertion(+)
+
+commit e37e3f51d2a17924bfa52ad775746761a177fc51
+Author: Calle <calle.thurin@welho.com>
+Date:   Tue Mar 21 18:41:11 2023 +0200
+
+    muutoksia ekaan ja kolmanteen
+
+ eka.txt    | 1 +
+ kolmas.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit b3c1d5609bd53253d307eab4ea82d4199e579de4
+Author: Calle <calle.thurin@welho.com>
+Date:   Tue Mar 21 18:39:09 2023 +0200
+
+    toisen poisto ja ekan rename
+
+ tiedosto.txt => eka.txt | 0
+ toinen.txt              | 1 -
+ 2 files changed, 1 deletion(-)
+
+commit b16b6d808d9cac145be97dc374e4f6c0f268bf7b
+Author: Calle <calle.thurin@welho.com>
+Date:   Tue Mar 21 18:25:12 2023 +0200
+
+    muutoksia ja lisätään neljäs
+
+ kolmas.txt                | 1 +
+ "stuff/nelj\303\244s.txt" | 0
+ toinen.txt                | 1 +
+ 3 files changed, 2 insertions(+)
+
+commit 06737adabe7587324efb83d2a78d4c8a0ecd6791
+Author: Calle <calle.thurin@welho.com>
+Date:   Tue Mar 21 18:23:52 2023 +0200
+
+    lisätään kolmas
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 598dcecd1e8c853b40378db475db6c4e51b49cc0
+Author: Calle <calle.thurin@welho.com>
+Date:   Tue Mar 21 18:23:13 2023 +0200
+
+    lisäys ja muutos
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 50983cfcdd22adbe76a5eb7fd4fb72167a588798
+Author: Calle <calle.thurin@welho.com>
+Date:   Tue Mar 21 17:39:44 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
