@@ -7,3 +7,5 @@ Tehtävä 1
 
 Tehtävä 11
 > [gitlog.txt](https://github.com/calle-t/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+
+testausta
