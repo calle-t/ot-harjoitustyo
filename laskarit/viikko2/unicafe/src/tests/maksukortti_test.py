@@ -11,7 +11,7 @@ class TestMaksukortti(unittest.TestCase):
     # omat testit, tehtävä 6
 
     def test_kortin_saldo_alussa_oikein(self):
-        self.assertEqual(self.maksukortti.saldo, 1000)
+        self.assertEqual(str(self.maksukortti), "Kortilla on rahaa 10.00 euroa")
 
     def test_rahan_lataaminen_kasvattaa_saldoa_oikein(self):
         self.maksukortti.lataa_rahaa(100)
